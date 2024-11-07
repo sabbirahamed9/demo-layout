@@ -1,0 +1,61 @@
+.header{
+	height: 90px;
+	background:skyblue;
+
+}
+.container{
+	overflow: hidden;
+}
+
+ .blog{
+ 	float: left;
+ 	width: 60%;
+ 	height: 250px;
+ 	
+ 	background: purple;
+
+ }
+ .contact{
+ 	float: right;
+ 	width: 40%;
+ height:250px;
+ 	background: olive;
+ }
+
+ 	 
+.item{ 
+float: left;
+width: 20%;
+height: 100px;
+ }
+
+ .pink{
+ 	background: pink;
+ }
+ .olive{
+ 	background: olive;
+ }
+ .blue{
+ 	background: blue;
+ }
+.green{
+	background:  green;
+}
+.yellow{
+	background: yellow;
+}
+
+.black{
+	background: black;
+}
+  .chocolate{
+  	background: chocolate;
+  }
+     .crimson{
+     	background: crimson;
+     }
+
+ .footer{
+  	height: 100px;
+  	background:teal;
+  }
